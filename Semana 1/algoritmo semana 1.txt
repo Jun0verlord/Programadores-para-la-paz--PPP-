@@ -1,0 +1,9 @@
+Algoritmo semana 1.
+Cómo compartir información confiable en internet.
+pasos:
+1. definir la informacion a buscar.
+2.realizar busqueda de la informacion.
+3.confirmar la fiabilidad de la fuente.
+4.contrastar la informacion con otras fuentes.
+5.elegir ruta para compartir
+6.publicar informacion
