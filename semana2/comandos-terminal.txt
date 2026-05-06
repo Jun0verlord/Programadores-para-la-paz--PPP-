@@ -6,4 +6,5 @@ cd
 git add
 git status
 git push
-git commit
+git commit -m " resolucion tarea 2"
+clear

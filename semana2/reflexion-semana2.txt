@@ -1,0 +1,10 @@
+el uso de la terminal es de gran importancia para la organizacion y navegacion de archivos.
+la navegacion por terminal da una gran precision y control sobre los archivos y rutas que hay dentro de nuestra equipo
+atravez de ella facilita la automatizacion de de tareas repetitivas o el uso de comados avanzados
+tambien permite la comunicacion con el sistema operativo de manera mucho mas rapida y eficiente.
+en resumen la terminal aumenta la eficiencia y las posibilidades de un desarrollador en el uso de herramientas mas avanzadas
+aumentando la capacidad tecnica y productividad, lo que a su vez se refleja en el perfil del desarrollador
+por eso pienso que un desarrollador debe por lo menos untentar comprender la terminal y sus herramientas
+pues el uso de la misma porta beneficios tanto en eficiencia y productividad, como en el perfil tecnico del mismo 
+y aunque no lo paresca muchos entornos digitales aveces no cuentan con una vista visual y suele ser en momentos como ese que el uso de la terminal se ve reflejado
+no como lujo sino como necesidad.
