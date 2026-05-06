@@ -1,0 +1,9 @@
+Comandos usados
+
+ni(new item) para los items
+mkdir
+cd 
+git add
+git status
+git push
+git commit
