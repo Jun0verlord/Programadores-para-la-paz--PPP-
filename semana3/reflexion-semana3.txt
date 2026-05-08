@@ -1,0 +1,10 @@
+reflexion semana 3
+
+mantener un registro de cambios en proyectos es vital por que es atraves de estas que mantenemos la trazabilidad y la transparencia en el mismo.
+asi se obtiene una vision clara de como, cuando, porque o quien realizo cambios en el proyecto.
+tambien nos da puntos a los que regresar si se recibe algun error inesperado funcionando como u backup.
+esto puede mejorar la eficiencia y comunicacion de parte de los desarrolladores o colaboradores
+pues un buen registro de cambios mantiene ordenado el desarrollo del proyecto, por eso es convierte en una herramienta esencial.
+y en esto herramientas como git que permiten regresar a puntos antes de errores o entender el por que de un cambio
+se vuelve esencial ya que asi se garanntiza el control sobre el proyecto, permite que de ser necesario
+se recorra la informacion desde el inicio con datos claros y precisos.
