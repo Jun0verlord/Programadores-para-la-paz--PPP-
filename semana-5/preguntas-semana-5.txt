@@ -1,0 +1,13 @@
+preguntas semana 5
+
+1.Qué es una ruta (route) en Express?
+B. Una interfaz que permite a diferentes aplicaciones comunicarse entre sí
+
+2.Qué método HTTP se usa normalmente para consultar información?
+B. GET
+
+3.Qué método HTTP se usa normalmente para enviar o registrar información?
+A. POST
+
+4.¿Qué significa API?
+B. Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí

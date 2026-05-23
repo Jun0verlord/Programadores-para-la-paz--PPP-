@@ -1,0 +1,9 @@
+Resultados de las pruebas en el navegador:
+
+1. Al ingresar a localhost:3000:
+El navegador muestra el texto "Servidor activo".
+
+2. Al ingresar a localhost:3000/saludo:
+El navegador muestra el texto "Hola comunidad", 
+
+3. Al ingresar a localhost:3000/mensaje/juan:

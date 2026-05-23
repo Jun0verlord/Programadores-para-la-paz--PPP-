@@ -1,0 +1,11 @@
+Resultados de las pruebas en el navegador:
+
+1. Al ingresar a localhost:3000:
+El navegador muestra el texto "Servidor activo". esto por que el get dice que si se usa la ruta general, se responda con "servidor activo"
+
+2. Al ingresar a localhost:3000/saludo:
+El navegador muestra el texto "Hola comunidad", esto por que ahora al agregar /saludo se dio como una ruta especifica, con una respuesta especifica a esa ruta.
+
+3. Al ingresar a localhost:3000/mensaje/juan:
+El navegador muestra el texto "Hola juan", por que ahora pusimos el nombre comouna especie de variable, por eso si pusieramos pedro o andrea, el mesaje dira hola pedro
+
