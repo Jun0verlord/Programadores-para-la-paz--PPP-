@@ -1,0 +1,13 @@
+preguntas semana 4
+
+1.¿Qué es Node.js?
+B. Un entorno que permite ejecutar JavaScript en el servidor
+
+2.¿Qué hace el comando npm init?
+B. Inicializa un proyecto Node.js creando el archivo package.json
+
+3.¿Qué es Express en Node.js?
+B. Un framework para construir servidores y APIs en Node.js
+
+4.¿Qué hace una ruta en una aplicación web?
+B.Define cómo responde el servidor cuando un usuario accede a una URL
