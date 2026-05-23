@@ -1,0 +1,11 @@
+Reflexion semana 4
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+creo que es importante que las comunidades construyan herramientas por que atraves de ellos las comunidades podran crearlas a su medida.
+una herramienta que seria precisa y pensada para esa comunidad, se dirigiria a las problematicas de esa comunidad y
+se volveria unica en su tipo, desde mi perspectiva un proyecto asi, como el de crear una forma de votacion digital o una
+manera de consultar cosas, o de encustar cosas haria que las comunidades ganaran independencia frente a 
+otras tecnologias, y ya que estaria creada por las comunidades se dirigiria directo a los problemas de la comunidad.
+tambien fomentaria la participacion por que seria la misma comunidad la que estaria uniendose y comunicandose
+para la creacion de este proyecto, el tener estas herramientas gratuitas y de acceso facil, es un gran apoyo para
+comunidades que quieran entrar en esta creacion de proyectos y demas elemento que ayudan tanto a la participacion 
+e independencia.
