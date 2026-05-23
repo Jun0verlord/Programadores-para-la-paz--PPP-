@@ -1,9 +1,8 @@
-Resultados de las pruebas en el navegador:
+Explicación de la ruta POST /reporte:
 
-1. Al ingresar a localhost:3000:
-El navegador muestra el texto "Servidor activo".
+1. ¿Qué hace esta ruta?:
+esta ruta hace que la peticion que hacemos llegue a el servidor, luego lee el mensaje y responde con el texto que escirbimos "reporte recibido"
 
-2. Al ingresar a localhost:3000/saludo:
-El navegador muestra el texto "Hola comunidad", 
-
-3. Al ingresar a localhost:3000/mensaje/juan:
+2. ¿Para qué podría servir en una aplicación comunitaria?
+si en el caso de la comunidad quisieramos hacer un buzon de sugerencias o una pagina de encuesta 
+deberiamos recurrir probablemente a una api similar, ya que seria  una manera rapida y "sencilla" de hacerlo.

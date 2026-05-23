@@ -1,0 +1,10 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+las apis ayudarian  muchisimo por que atravez de ellas es que las plataformas reciben y guardan informacion,
+si usaramos un ejemplo son como los meseros de un restaurante, reciben la orden y la llevan a la cocina,
+lugo reciben tu plato y te lo llevan a ti. si usaramos apis en una comunidad ganariamos una organizacion tremenda
+por que se podria mejorar la comunicacion y organizacion de los mensajes que hay en ella.
+podria reunir la informacion de reportes de la comunidad en un solo lugar o comparar reportes de varias personas
+asi sabria si hay un problemas concentrado en alguna parte, eso haria mas organizada y eficiente el manejo de informacion
+tambien nos daria autonomia por que asi la misma comunidades manejaria esa informacion y no dependeria de externos.
+seria una gran manera de ordenar e independizar una comunidad.
