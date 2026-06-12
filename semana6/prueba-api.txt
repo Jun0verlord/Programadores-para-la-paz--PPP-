@@ -1,0 +1,5 @@
+Pruebas para la API - semana 6
+
+- Ruta raíz: GET /
+- Prueba de estado: 200 OK
+- Notas: Añadir más endpoints según necesidad
