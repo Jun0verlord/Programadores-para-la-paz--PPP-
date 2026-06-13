@@ -1,0 +1,13 @@
+ 
+ ejemplo reportes
+ 
+
+  "ciudadano": "Juan muñoz",
+  "situacion": "venta de sustancias en el parque del amor."
+
+
+
+
+  "ciudadano": "Andrés R",
+  "situacion": "Fuga del acueducto en la vereda x."
+

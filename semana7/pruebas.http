@@ -1,0 +1,24 @@
+### Probar Ruta POST - Registrar Primer Reporte
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "ciudadano": "Juan muñoz",
+  "situacion": "venta de sustancias en el parque del amor."
+}
+
+###
+
+### Probar Ruta POST - Registrar Segundo Reporte
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "ciudadano": "Andrés R",
+  "situacion": "Fuga del acueducto en la vereda x."
+}
+
+###
+
+### Probar Ruta GET - Consultar Todos los Reportes Guardados
+GET http://localhost:3000/reportes
