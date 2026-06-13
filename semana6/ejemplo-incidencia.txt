@@ -1,9 +1,6 @@
 Ejemplo de incidencia
+{
+  Típo: Seguridad publica
+  Descripción: La comunidad están reportando un incidente de seguridad en la zona del parque del amor
+}
 
-Título: Error al iniciar el servidor
-Descripción: El servidor no responde al realizar GET / en entorno local.
-Pasos para reproducir:
-1. Ejecutar `node server.js`
-2. Abrir http://localhost:3000/
-Resultado esperado: Respuesta 200
-Resultado obtenido: Sin respuesta / error

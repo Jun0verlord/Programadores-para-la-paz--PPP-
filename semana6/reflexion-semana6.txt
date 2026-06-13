@@ -1,7 +1,12 @@
-Reflexión semana 6
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o 
+información enviada por los ciudadanos de forma estructurada?
 
-- Logros:
-
-- Retos:
-
-- Próximos pasos:
+es importante que las comunidades aprendan y utilicen estas valiosas herramientas de tecnologia
+por que atravez de ella la organizacion y calidad en la que la comunidad solucione porblemas
+y por que esto optimiza los tiempos en los que se respuesta y el procesamiento de los reportes
+e informacion registrada por los reportes. esto suele derivar en la automatizacion de solicitudes
+que elimina en parte de la intervencion humana, aun asi es vital que el componente humano
+este siempre presente a la hora de gestionar los datos interpretados por una automatizacion.
+al final todo esto se trata de hacer mas eficientes los procesos y generarle una forma de obtener
+soluciones rapidas y eficaces a la comunidad, por que asi podemos construir sistemas mas eficientes
+transparentes y modernos que daran forma a una comunidad mas organizada, rapida y eficiente.

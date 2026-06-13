@@ -1,0 +1,8 @@
+Al enviar una petición POST a la ruta http://localhost:3000/registro utilizando la extensión REST de Codespaces, el servidor Express procesó los datos en 22ms devolviendo un estado HTTP 200 OK.
+
+El cuerpo de la respuesta contiene lo siguiente:
+{
+  "estado": "Datos recibidos",
+  "nombre": "maria",
+  "mensaje": "Hola comunidad"
+}

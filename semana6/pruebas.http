@@ -5,3 +5,14 @@ Content-Type: application/json
   "nombre": "maria",
   "mensaje": "Hola comunidad"
 }
+
+
+
+### Prueba incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "seguuridad publica",
+  "descripcion": "Los vecinos están reportando un incidente de seguridad en la zona del parque del amor."
+}
