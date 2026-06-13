@@ -1,0 +1,13 @@
+Buenas practicas
+
+verificacion 2 pasos: utilizar en lo posible la verificacion en 2 pasos dentro de aplcaciones
+que puedan representar riesgos o que contengan datos personales.
+
+actualizaciones: mantener las actualizaciones constante, ya que los desarrolladores suelen cerrar entradas
+y corregir vulnerabilidades en ellas.
+
+evitar redes inseguras: redes publicas o que no conoces, ya que esta suelen ser usadas por su seguridad mas laxa
+con fines maliciosos.
+
+phishing: evitar enlances y archivos de procedencia dudosa, revisar a detalle lo que recibimos o en su defecto
+usar un antivirus que pueda dar alertas de phising.

@@ -1,0 +1,8 @@
+sistema comandos linux
+
+Comando: uname -a
+Descripción: este comando muestra la informacion tecnica del sistema del que se trabaja.
+sirve para identificar exactamente el sistema del que se esta trabajando sea fisico o virtual
+Comando: whoami
+Descripción: este comando nos diceel nombre con el que iniciamos sesion y sirve para verificar el tipo de
+usuario que esta trabajndo en la informacion.
