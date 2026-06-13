@@ -1,13 +1,12 @@
  
  ejemplo reportes
  
-
+1
   "ciudadano": "Juan muñoz",
   "situacion": "venta de sustancias en el parque del amor."
 
 
-
-
+2
   "ciudadano": "Andrés R",
   "situacion": "Fuga del acueducto en la vereda x."
 

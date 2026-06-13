@@ -1,0 +1,6 @@
+
+despues de usar GET a la ruta http://localhost:3000/reportes habiendo
+enviado datos mediante los POST, 
+el servidor Express responde con un estado HTTP 200 OK y devuelve un arreglo JSON 
+que contiene la lista de "reportes". 
+
