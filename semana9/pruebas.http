@@ -1,0 +1,3 @@
+
+### Probar la Ruta de Estado
+GET http://localhost:3000/estado

@@ -1,0 +1,10 @@
+¿Qué ocurre al ejecutar el servidor con 'node server.js'?
+
+al ejecutar el comando node server.js, se inicia un proceso que separa el puerto detallado en el archivo.
+en este caso el 3000, y deja el mismo activo y escuchando.
+
+el mensaje en la terminal dice "servidor ejecutandose en puerto 3000"
+
+al visitar la ruta estado esta nos informa el estado actual del servidor que se esta ejecutando
+cosas como el tipo de contenido, el estado de la conexion, la fecha.
+en resumen muestra una respuesta a la peticion que realizamos.

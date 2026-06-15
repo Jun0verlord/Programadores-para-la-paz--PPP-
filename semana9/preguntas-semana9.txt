@@ -1,0 +1,13 @@
+Preguntas semana 9
+
+¿Qué es un servidor en una aplicación web?
+B. Un programa o computadora que escucha solicitudes de clientes y devuelve una respuesta
+
+¿Qué significa que un servidor escuche en un puerto?
+B. Una puerta de entrada virtual específica en el servidor para canalizar el tráfico de una aplicación
+
+¿Cuál de los siguientes elementos es importante para la estabilidad de un servidor?
+B. Registros de texto que guardan los eventos, accesos o errores ocurridos en el servidor
+
+¿Qué son los logs en un servidor?
+B. Mantener el servidor encendido, vigilar los logs y aplicar medidas para que la app no se caiga

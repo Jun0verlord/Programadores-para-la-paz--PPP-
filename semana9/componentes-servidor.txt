@@ -1,0 +1,16 @@
+componentes
+
+sistema operativo: es el programa base y principal que se ejecuta al iniciar un equipo, se encargarga de la
+gestion de los recursos del equipo, proporciona el entorno donde ejecutar comandos.
+
+node js: es un entorno de javascript, permite ejecutar el codigo tanto en el backend como en el frontend
+de manera asincronica, lo que lo hace ideal para muchas aplicaciones.
+
+aplicacion(express): es el archivo donde se guarda la configuracion y se arranca el servidor, aqui se
+guardan las conexiones con bases de datos y se programan las respuestas de los usuarios.
+
+puerto: es un canal atraves del cual la aplicacion puede escuchar o recibir peticiones solicitudes o 
+conexiones de los usuarios o redes que acceden a el, es la puerta de entrada a el servidor.
+
+logs: los logs son registros generalmente texto que guardan informacion detallada sobre lo que pasa en el sistema
+se usan para rastrear usuarios o errores, conocer cambios y que hacen los usuarios o supervisar el rendimiento.

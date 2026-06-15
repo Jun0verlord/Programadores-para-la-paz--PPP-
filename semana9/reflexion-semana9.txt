@@ -1,0 +1,12 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades 
+funcionen de manera estable y segura en un servidor?
+
+es muy importante que las ´plataformas tenga la estabilidad y seguridad, por que cuando una persona ingresa
+a dar un reporte sobre una emergencia o cualquier otra situacion lo que esa persona espera es que la misma
+responda de inmediato o almenos de forma rapida, que un servidor se encuentre caido o no respondar
+rompe la comunicacion entre la persona y el canal, socabando la confianza entre las personas y sus sistemas
+garantizar que estas herramientas sean fuertes, utiles y estables es una base para promover la confianza de la
+comunidad, de esta manera se asegura que la comunidad tenga canales de comunicacion abiertos constantemente y 
+de doble via. creo que el punto final de todo esto es que la comunidad confie en sus herramientas, que las personas 
+se sientan atraidas a participar en los procesos y que aseguremos la continuidad, disponibilidad y accesibilidad 
+garantizando que las cmunidades puedan comunicarse,colaborar y proteger sus datos sin riesgos ni interrupciones.
